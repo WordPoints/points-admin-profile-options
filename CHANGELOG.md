@@ -8,7 +8,7 @@ This project adheres to [Semantic Versioning](http://semver.org/) and [Keep a CH
 
 Nothing documented yet.
 
-## [1.0.0] - 2017-12-23
+## [1.0.0] - 2018-01-04
 
 ### Added
 
