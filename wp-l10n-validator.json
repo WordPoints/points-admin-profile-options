@@ -1,0 +1,9 @@
+{
+	"textdomain": "wordpoints-points-admin-profile-options",
+	"basedir": "./src",
+	"ignored-paths": [ "/library" ],
+	"bootstrap": "dev-lib/l10n-validator/bootstrap.php",
+	"cache": "./.wp-l10n-validator-cache.json",
+	"ignores-cache": "./.wp-l10n-validator-ignores-cache.json",
+	"ignores-tolerance": 25
+}
